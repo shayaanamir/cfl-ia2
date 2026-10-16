@@ -1,0 +1,6 @@
+﻿Hash computed (SHA-256) from 2026-10-09 10:47:53 UTC to 2026-10-09 10:49:43 UTC
+Source: snapshot 03-Post-Simulation disk {d687123f-39a6-4d9b-ba69-a430860b2b87} cloned with VBoxManage clonemedium to RAW
+SHA-256: C0CE65AEC356B5FE9764034F95FAB69A0A92AB79503EBA01100402575FB15CFA
+Verification: hash recomputed and compared to saved value, result recorded in session; image set read-only and unregistered from VirtualBox (file retained).
+Verification result: MATCH (recomputed SHA-256 equals saved SHA-256) at 2026-10-09 10:54:45 UTC
+Re-verification after host restart: SHA-256 MATCH at 2026-10-10 07:48:26 UTC
